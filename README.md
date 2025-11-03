@@ -19,7 +19,7 @@ Built using Python, pandas, scikit-learn, and Jupyter Notebook.
 5. Making predictions on new data
 
 ## 📊 Results
-Achieved **X% accuracy** on the test set.
+Achieved **72% accuracy** on the test set.
 
 ## 🧠 Libraries Used
 - pandas  
